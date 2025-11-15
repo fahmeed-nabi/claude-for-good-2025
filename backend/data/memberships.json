@@ -1,0 +1,14 @@
+{
+  "class__MHRjM3xb-A": {
+    "fahmeed.nabi@gmail.com": {
+      "role": "teacher",
+      "status": "active",
+      "joined_at": "nt.times_result(user=7.0, system=5.265625, children_user=0.0, children_system=0.0, elapsed=0.0)"
+    },
+    "huyahnavy@gmail.com": {
+      "role": "student",
+      "status": "active",
+      "joined_at": "nt.times_result(user=9.125, system=7.8125, children_user=0.0, children_system=0.0, elapsed=0.0)"
+    }
+  }
+}

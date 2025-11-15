@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+body {
+  background: linear-gradient(to bottom right, #f8fafc, #dbeafe, #e0e7ff);
+  font-feature-settings: 'rlig' 1, 'calt' 1;
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #2563eb, #4f46e5);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.card-shadow {
+  box-shadow: 0 10px 15px -3px rgba(59, 130, 246, 0.1), 0 4px 6px -4px rgba(59, 130, 246, 0.1);
+  transition: all 0.3s ease;
+}
+
+.card-shadow:hover {
+  box-shadow: 0 20px 25px -5px rgba(59, 130, 246, 0.15), 0 8px 10px -6px rgba(59, 130, 246, 0.15);
+}

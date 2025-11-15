@@ -1,0 +1,128 @@
+{
+  "class__MHRjM3xb-A": {
+    "ISA_Syllabus.txt": {
+      "chunk_ids": [
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:0",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:1",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:2",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:3",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:4",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:5",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:6",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:7",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:8",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:9",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:10",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:11",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:12",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:13",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:14",
+        "class__MHRjM3xb-A:ISA_Syllabus.txt:15"
+      ],
+      "uploaded_by": "fahmeed.nabi@gmail.com",
+      "uploaded_at": "nt.times_result(user=38.03125, system=8.6875, children_user=0.0, children_system=0.0, elapsed=0.0)",
+      "summary": "Here's a concise summary of the syllabus:\n\nThis is a computer science course focusing on building large-scale internet websites and mobile apps, with an emphasis on architecture and substantial code writing. The course involves daily and weekly assignments, two exams (midterm and final), and requires in-person attendance, with collaboration encouraged but individual work expected."
+    },
+    "0 Intro sm2.pdf": {
+      "chunk_ids": [
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:0",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:1",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:2",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:3",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:4",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:5",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:6",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:7",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:8",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:9",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:10",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:11",
+        "class__MHRjM3xb-A:0 Intro sm2.pdf:12"
+      ],
+      "uploaded_by": "fahmeed.nabi@gmail.com",
+      "uploaded_at": "nt.times_result(user=75.234375, system=12.5625, children_user=0.0, children_system=0.0, elapsed=0.0)"
+    },
+    "1 HTTP request cycle sm.pdf": {
+      "chunk_ids": [
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:0",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:1",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:2",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:3",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:4",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:5",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:6",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:7",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:8",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:9",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:10",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:11",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:12",
+        "class__MHRjM3xb-A:1 HTTP request cycle sm.pdf:13"
+      ],
+      "uploaded_by": "fahmeed.nabi@gmail.com",
+      "uploaded_at": "nt.times_result(user=75.515625, system=12.609375, children_user=0.0, children_system=0.0, elapsed=0.0)"
+    },
+    "2 HTTP service.pdf": {
+      "chunk_ids": [
+        "class__MHRjM3xb-A:2 HTTP service.pdf:0",
+        "class__MHRjM3xb-A:2 HTTP service.pdf:1",
+        "class__MHRjM3xb-A:2 HTTP service.pdf:2",
+        "class__MHRjM3xb-A:2 HTTP service.pdf:3",
+        "class__MHRjM3xb-A:2 HTTP service.pdf:4",
+        "class__MHRjM3xb-A:2 HTTP service.pdf:5",
+        "class__MHRjM3xb-A:2 HTTP service.pdf:6",
+        "class__MHRjM3xb-A:2 HTTP service.pdf:7",
+        "class__MHRjM3xb-A:2 HTTP service.pdf:8",
+        "class__MHRjM3xb-A:2 HTTP service.pdf:9"
+      ],
+      "uploaded_by": "fahmeed.nabi@gmail.com",
+      "uploaded_at": "nt.times_result(user=125.0625, system=17.15625, children_user=0.0, children_system=0.0, elapsed=0.0)"
+    },
+    "3 CGI and monoliths.pdf": {
+      "chunk_ids": [
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:0",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:1",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:2",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:3",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:4",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:5",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:6",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:7",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:8",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:9",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:10",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:11",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:12",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:13",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:14",
+        "class__MHRjM3xb-A:3 CGI and monoliths.pdf:15"
+      ],
+      "uploaded_by": "fahmeed.nabi@gmail.com",
+      "uploaded_at": "nt.times_result(user=125.28125, system=17.1875, children_user=0.0, children_system=0.0, elapsed=0.0)"
+    },
+    "4 HTML and Javascript.pdf": {
+      "chunk_ids": [
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:0",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:1",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:2",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:3",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:4",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:5",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:6",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:7",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:8",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:9",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:10",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:11",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:12",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:13",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:14",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:15",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:16",
+        "class__MHRjM3xb-A:4 HTML and Javascript.pdf:17"
+      ],
+      "uploaded_by": "fahmeed.nabi@gmail.com",
+      "uploaded_at": "nt.times_result(user=125.78125, system=17.25, children_user=0.0, children_system=0.0, elapsed=0.0)"
+    }
+  }
+}

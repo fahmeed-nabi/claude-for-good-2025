@@ -1,0 +1,33 @@
+{
+  "fahmeed.nabi@gmail.com": {
+    "17 Platforms and Orchestration.pdf": {
+      "chunk_ids": [
+        "fahmeed.nabi@gmail.com:17 Platforms and Orchestration.pdf:0",
+        "fahmeed.nabi@gmail.com:17 Platforms and Orchestration.pdf:1",
+        "fahmeed.nabi@gmail.com:17 Platforms and Orchestration.pdf:2",
+        "fahmeed.nabi@gmail.com:17 Platforms and Orchestration.pdf:3",
+        "fahmeed.nabi@gmail.com:17 Platforms and Orchestration.pdf:4",
+        "fahmeed.nabi@gmail.com:17 Platforms and Orchestration.pdf:5",
+        "fahmeed.nabi@gmail.com:17 Platforms and Orchestration.pdf:6",
+        "fahmeed.nabi@gmail.com:17 Platforms and Orchestration.pdf:7"
+      ],
+      "uploaded_at": "nt.times_result(user=87.265625, system=226.828125, children_user=0.0, children_system=0.0, elapsed=0.0)"
+    }
+  },
+  "huyahnavy@gmail.com": {
+    "6 Javascript Objects.pdf": {
+      "chunk_ids": [
+        "huyahnavy@gmail.com:6 Javascript Objects.pdf:0",
+        "huyahnavy@gmail.com:6 Javascript Objects.pdf:1",
+        "huyahnavy@gmail.com:6 Javascript Objects.pdf:2",
+        "huyahnavy@gmail.com:6 Javascript Objects.pdf:3",
+        "huyahnavy@gmail.com:6 Javascript Objects.pdf:4",
+        "huyahnavy@gmail.com:6 Javascript Objects.pdf:5",
+        "huyahnavy@gmail.com:6 Javascript Objects.pdf:6",
+        "huyahnavy@gmail.com:6 Javascript Objects.pdf:7"
+      ],
+      "uploaded_at": "nt.times_result(user=35.609375, system=7.65625, children_user=0.0, children_system=0.0, elapsed=0.0)",
+      "summary": "Here's a concise summary of the document:\n\nThis educational material covers JavaScript objects, classes, and JSON, providing an overview of object creation, class definitions, and JSON structure. The document includes syntax examples for declaring objects, using classes with constructors and methods, and formatting JSON data, with a practical exercise involving creating a shopping list application that demonstrates object-oriented programming concepts in JavaScript."
+    }
+  }
+}

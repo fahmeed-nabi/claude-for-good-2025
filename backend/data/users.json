@@ -1,0 +1,12 @@
+{
+  "fahmeed.nabi@gmail.com": {
+    "password": "$2b$12$I6Pk9o8skOa0F337G1lN5uCZ/gdV8r/fJfJc56ov2PHA6rZwxDUCe",
+    "name": "Fahmeed Nabi",
+    "created_at": "nt.times_result(user=67.078125, system=213.28125, children_user=0.0, children_system=0.0, elapsed=0.0)"
+  },
+  "huyahnavy@gmail.com": {
+    "password": "$2b$12$kwuUOlnopy7DlhUu29B8.u6ov5a6e2Y8NzppJrzSKfPdpwZQbsqQ6",
+    "name": "Frank",
+    "created_at": "nt.times_result(user=8.65625, system=7.515625, children_user=0.0, children_system=0.0, elapsed=0.0)"
+  }
+}
